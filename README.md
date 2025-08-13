@@ -76,9 +76,7 @@
 
 ### 🗣 Languages:
 
-| Name                                                        | Level             |
-| ----------------------------------------------------------------| :---------------: |
-| Russian ![russian-flag]()                | **C2** |
-| English ![british-flag]()                | **B1** |
-
----
+| Flag | Level             |
+| :--: | :---------------: |
+| ![RU](https://img.icons8.com/?size=25&id=15528&format=png&color=000000)| **C2** |
+| ![EN](https://img.icons8.com/?size=25&id=xapj7ZzAUZKI&format=png&color=000000)| **B1** |
