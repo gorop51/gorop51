@@ -79,4 +79,4 @@
 | Flag | Level             |
 | :--: | :---------------: |
 | ![RU](https://img.icons8.com/?size=25&id=15528&format=png&color=000000)| **C2** |
-| ![EN](https://img.icons8.com/?size=25&id=xapj7ZzAUZKI&format=png&color=000000)| **B1** |
+| ![EN](https://img.icons8.com/?size=25&id=15534&format=png&color=000000)| **B1** |
