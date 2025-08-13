@@ -16,7 +16,7 @@
 <p>as well as 86 in specialized mathematics exam and 96 in Russian exam, for a total of 280 points out of 300;</p>
 
 - **Government scholarship at the University:**
-<p>I publish articles about AI and similar topics in scientific journals.</p>
+<p>I was published with articles about AI and similar topics in scientific journals.</p>
 
 ###
 
