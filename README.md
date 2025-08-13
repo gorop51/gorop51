@@ -64,15 +64,15 @@
 
 <h3 align="left">📕 Some ML articles </h3>
 
-- [Fundamentals of linear regression](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Regularization in ML](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+- [Fundamentals of linear regression](https://1drv.ms/w/c/480492ce6d44c9a7/EQA2X_-46zNJvW6sZkZnhoIBBZNwnjuMjZPWWZQu0arF0Q?e=IH8tBs)
+- [Regularization in ML](https://1drv.ms/w/c/480492ce6d44c9a7/EW4-2dO6a4ROkN_Df2VFlsYBRz1GaVcSEzXv6SXRo83_IQ?e=LikNIC)
 
 ### 💻 Additional education
 
-| Course                                                          | Date              |
-| ----------------------------------------------------------------| :---------------: |
-| [practicum.yandex/DS specialist](https://practicum.yandex.ru/data-scientist)                      | 12/2022 - 07/2023 |
-| [practicum.yandex/Mathematics for DA](https://practicum.yandex.ru/math-for-da-ds/)                 | 07/2025 - xx/2025 |
+| Course                                                          | Date              | Docs |
+| ----------------------------------------------------------------| :---------------: | :--: |
+| [practicum.yandex/DS specialist](https://practicum.yandex.ru/data-scientist)                      | 12/2022 - 07/2023 | [![](https://img.icons8.com/?size=15&id=98Pzb3JNQAry&format=png&color=000000)](https://drive.google.com/file/d/1D4aA7iWT4cP5keR1YqlWcvSboyBBUpVi/view?usp=sharing)|
+| [practicum.yandex/Mathematics for DA](https://practicum.yandex.ru/math-for-da-ds/)                 | 07/2025 - xx/2025 | — |
 
 ### 🗣 Languages
 
