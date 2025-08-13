@@ -1,7 +1,3 @@
-<br clear="both">
-
-###
-
 <h1 align="left">Hi, I'm George! Welcome to my page ☺️</h1>
 
 ###
@@ -24,7 +20,7 @@
 
 ###
 
-<h3 align="left">🛠 Skills:</h3>
+<h3 align="left">🧠 Skills:</h3>
 
 ###
 
@@ -50,6 +46,8 @@
 ###
 
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="p-sql logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="m-sql logo"  />
@@ -64,22 +62,23 @@
 
 ###
 
-<h3 align="left">📕 My </h3>
+<h3 align="left">📕 Some ML articles </h3>
 
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+- [Fundamentals of linear regression](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
+- [Regularization in ML](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
-### 💻 Пройденные курсы:
+### 💻 Additional education:
 
-| Курсы                                                           | Дата              |
+| Course                                                          | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| [practicum.yandex/DS specialist](https://practicum.yandex.ru/data-scientist)                      | 12/2022 - 07/2023 |
+| [practicum.yandex/Mathematics for DA](https://practicum.yandex.ru/math-for-da-ds/)                 | 07/2025 - xx/2025 |
+
+### 🗣 Languages:
+
+| Name                                                        | Level             |
+| ----------------------------------------------------------------| :---------------: |
+| Russian ![russian-flag]()                | **C2** |
+| English ![british-flag]()                | **B1** |
 
 ---
