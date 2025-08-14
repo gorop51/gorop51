@@ -2,6 +2,14 @@
 
 ###
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gorop51)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rab.georgespesivtsev@gmail.com&su=from-github)
+<img src="icons/ods-ai.jpg" alt="notion logo"  />
+
+###
+
 <h3 align="left">👩‍💻 About me</h3>
 
 ###
